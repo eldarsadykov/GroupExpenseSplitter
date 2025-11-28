@@ -8,7 +8,6 @@ A command-line application written in C that helps split expenses fairly among a
 - Calculates fair share for each person based on total expenses
 - Distributes remainder cents to ensure accurate splitting
 - Optimizes payment settlements to minimize the number of transactions
-- Color-coded terminal output for better readability
 
 ## How It Works
 
