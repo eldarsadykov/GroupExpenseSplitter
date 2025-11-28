@@ -22,7 +22,7 @@ typedef struct
   int id_;
   Cents money_spent_;
   Cents balance_;
-  char name_[MAX_INPUT_LENGTH];
+  char name_[MAX_NAME_LENGTH];
 } Person;
 
 typedef struct
